@@ -46,12 +46,12 @@ namespace Rhetorica
         //Repository.LocalTextPath,
         Repository.NlpTextsPath,
         //"Washington - Inaugural Address (1789).txt"
-        //"Obama - Inaugural Address (2009).txt"
+        "Obama - Inaugural Address (2009).txt"
         //"Obama - Inaugural Address (excerpt, 2009).txt"
         //"Churchill - We Shall Fight on the Beaches (1940).txt"
         //"Churchill - We Shall Fight on the Beaches (excerpt, 1940).txt"
         //"Test Sentences.txt"
-        "test.txt"
+        //"test.txt"
         //"epizeuxis_test.txt" // and ploce
         //"polysyndeton_test.txt"
         //"anaphora_test.txt" // and epistrophe
