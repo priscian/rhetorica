@@ -188,6 +188,7 @@ GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
 
-# Other project folders
+# Other project files amd folders
 [Tt]est/
 [Tt]ext/
+code/Ntree.cs
